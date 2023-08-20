@@ -1,2 +1,6 @@
 # Give-voluntiring site
-The site helps connect the volunteer to the requested volunteering by area, location, field of availability, and more... The site contains information about requested volunteering and the volunteer who enters the site will be able to choose the volunteering that seems most suitable and relevant to him, and then the system will send everything he chose for approval and if it is approved, the system will contact with the volunteer.
+The website Give connects people in need of assistance with volunteers.
+Our system allows the administrator to easily upload the people's assistance requests to the website, while registered users can browse and choose from a diverse pool of volunteering the volunteering they prefer and the most convenient for them.
+The site offers advanced search and matching features, users can find the most suitable volunteers based on location, etc.
+After the user has chosen the desired volunteers, he must send them to the system, which will confirm them and send him the details of the person in need of assistance.
+Our meticulous application process ensures the authenticity and credibility of the selected volunteer, creating a safe and reliable environment.
