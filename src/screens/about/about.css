@@ -1,0 +1,60 @@
+#title1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom: 2px solid red;
+}
+
+#title1 h3 {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.one {
+    width: 33%;
+    padding: 20px solid white;
+    border: 40px solid white;
+    background-color: white;
+}
+
+#textpart {
+    color: #0a0000; 
+    text-align: left;
+    padding: 20px solid white;
+    display: flex;
+    margin-left: 15%;
+    width: 70%;
+    margin-top: -70px;
+}
+
+.one h2 {
+    min-height: 70px;
+}
+
+.two {
+    color: darkgray;
+    font-size: 16px;
+}
+
+.text2 {
+    font-size: 18px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 40px solid white;
+    margin-top: 100px;
+    background-color: white;
+}
+
+.text3 {
+    margin: auto;
+    margin-bottom: 30px;
+    width: 80%;
+    text-align: center;
+    border: 20px solid white;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 0 0 10px 0 red;
+}

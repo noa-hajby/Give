@@ -1,0 +1,12 @@
+.app {
+  background-color: rgb(132, 123, 123);
+}
+
+#wrapper {
+  min-height: 100%;
+  /* height: auto !important; */
+}
+
+#content {
+  min-height: calc(100vh - 170px);
+}

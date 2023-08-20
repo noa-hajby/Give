@@ -1,0 +1,13 @@
+#footerr {
+  background-color: black;
+  -webkit-text-fill-color: darkgray;
+  height: 150px;
+  color: aliceblue;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.phone {
+  margin-left: 40%;
+  text-align: left;
+}
