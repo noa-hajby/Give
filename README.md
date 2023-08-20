@@ -1,2 +1,2 @@
-# Give
-Volunteer site
+# Give-voluntiring site
+The site helps connect the volunteer to the requested volunteering by area, location, field of availability, and more... The site contains information about requested volunteering and the volunteer who enters the site will be able to choose the volunteering that seems most suitable and relevant to him, and then the system will send everything he chose for approval and if it is approved, the system will contact with the volunteer.
