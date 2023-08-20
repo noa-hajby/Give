@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+
+}
+.header{
+    font-family: Arial;
+    background-color: #f0f0f0;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+body{
+    background-color: #f0f0f0;
+   }
+
+.title-with-line{
+display: fixed;
+}
+#paper{
+    background-color: #f0f0f0;
+}
